@@ -1,1 +1,0 @@
-conda activate ollama_env
