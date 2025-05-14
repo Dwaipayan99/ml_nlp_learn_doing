@@ -37,3 +37,21 @@ venv/
 # Git LFS (if used)
 .gitattributes
 
+
+
+# Large files
+*.pkl
+*.dylib
+*.so
+
+# Ignore environments
+env/
+*/env/
+venv/
+*/venv/
+
+# OS + IDE
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
