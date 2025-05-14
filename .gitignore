@@ -8,3 +8,32 @@ node_modules/
 *.dylib
 *.dylib
 *.2.dylib
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.csv
+*.xlsx
+*.ipynb_checkpoints/
+*.log
+
+# Virtual Environments
+env/
+venv/
+*/env/
+*/venv/
+
+# macOS
+.DS_Store
+
+# Large Libraries
+*.dylib
+*.so
+*.dll
+
+# Git LFS (if used)
+.gitattributes
+
