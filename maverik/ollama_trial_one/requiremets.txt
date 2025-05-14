@@ -1,0 +1,10 @@
+langchain 
+langchain-community
+langchain-core
+langchain-ollama
+langchain-text-splitters
+langchainhub
+pydantic
+pandas
+faiss-cpu
+python-dotenv
