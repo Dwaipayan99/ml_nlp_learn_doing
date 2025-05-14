@@ -1,1 +1,0 @@
-conda activate rag_full_env
