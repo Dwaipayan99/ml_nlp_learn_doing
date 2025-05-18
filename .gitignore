@@ -1,0 +1,59 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+.DS_Store
+*.log
+*.pkl
+*.dylib
+*.dylib
+*.2.dylib
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.h5
+*.csv
+*.xlsx
+*.ipynb_checkpoints/
+*.log
+
+# Virtual Environments
+env/
+venv/
+*/env/
+*/venv/
+
+# macOS
+.DS_Store
+
+# Large Libraries
+*.dylib
+*.so
+*.dll
+
+# Git LFS (if used)
+.gitattributes
+
+
+
+# Large files
+*.pkl
+*.dylib
+*.so
+
+# Ignore environments
+env/
+*/env/
+venv/
+*/venv/
+
+# OS + IDE
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+
+**/.env
